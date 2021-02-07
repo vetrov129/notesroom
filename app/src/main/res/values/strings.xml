@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="log_in">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="accept_password">Подтвердитете пароль</string>
+    <string name="note">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="title">Заголовок</string>
+    <string name="content">CONTENT</string>
+    <string name="date">date</string>
+</resources>
