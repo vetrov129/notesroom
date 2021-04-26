@@ -81,6 +81,7 @@ class NotesListActivity : AppCompatActivity() {
         startActivity(Intent(this, EditorActivity::class.java))
     }
 
+
     fun setButtonsMode(isAnySelected: Boolean) {
         if (anySelectedButtonsMode == isAnySelected)
             return
